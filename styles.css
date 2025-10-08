@@ -54,15 +54,6 @@ h1 {
     margin-bottom: 2rem;
 }
 
-h2 {
-    color: #8b4513;
-    font-size: 1.8rem;
-    margin-bottom: 1rem;
-    text-align: center;
-    border-bottom: 2px solid #d4a574;
-    padding-bottom: 0.5rem;
-}
-
 /* Recipe list styles */
 .recipe-list {
     list-style: none;
